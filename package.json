@@ -1,0 +1,13 @@
+{
+  "name": "mcp-stock-server",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "better-sqlite3": "^12.5.0",
+    "node-fetch": "^3.3.2"
+  }
+}

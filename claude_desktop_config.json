@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "stock-snapshot": {
+      "command": "node",
+      "args": ["C:/Users/reorome/Documents/projects/mcp-stock-server/index.js"]
+    }
+  }
+}
